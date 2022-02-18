@@ -1,0 +1,7 @@
+n1 é múltiplo de n2!
+n1 NÃO é múltiplo de n2!
+n1 NÃO é múltiplo de n2!
+ERROR
+n1 NÃO é múltiplo de n2!
+ERROR
+O programa encerrou!
